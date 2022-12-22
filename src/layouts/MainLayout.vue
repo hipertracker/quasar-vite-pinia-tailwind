@@ -1,7 +1,8 @@
 <template>
   <q-layout view="lHh Lpr lFf">
     <q-header elevated>
-      <div class="t-bg-gray-900 t-text-xl">xx</div>
+      <div class="t-bg-red-900 t-text-xl q-ml-lg">Left margin working</div>
+      <div class="t-bg-gray-900 t-text-xl t-ml-50">Left margin not working</div>
     </q-header>
     <!-- <q-header elevated>
       <q-toolbar>
